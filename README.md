@@ -1,11 +1,6 @@
 🏏 IPL Team Selector using Genetic Algorithm
 A smart team selection engine built on IPL data to choose the best possible playing XI using player stats and performance history. The project leverages a Genetic Algorithm to generate optimized teams with constraints like 7 Indian players and 4 foreign players, based on preprocessed and cleaned datasets.
 
-📂 Project Structure
-├── datasets/                # Preprocessed and cleaned IPL data
-├── team_selector.py         # Core logic using genetic algorithm for team selection
-└── README.md                # Project documentation
-
 🚀 Features
 ✅ Predictive Modeling: Datasets are curated and trained to forecast player performances.
 
